@@ -143,3 +143,5 @@
 
 /* Define for large files, on AIX-style hosts. */
 /* #undef _LARGE_FILES */
+
+#define HAVE_LROUND 1

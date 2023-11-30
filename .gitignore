@@ -17,8 +17,8 @@ xcuserdata
 profile
 *.moved-aside
 
-flac-src/*
-libogg-src/*
-libopus-src/*
-libopusfile-src/*
-!put_sources_here
+# flac-src/*
+# libogg-src/*
+# libopus-src/*
+# libopusfile-src/*
+# !put_sources_here
