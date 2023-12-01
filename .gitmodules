@@ -7,3 +7,15 @@ url=https://github.com/taglib/taglib.git
 [submodule "Vorbis"]
 	path = Vorbis
 	url = https://github.com/iosdevzone/IDZPrecompiledVorbis.git
+[submodule "flac-src"]
+	path = flac-src
+	url = https://github.com/xiph/flac.git
+[submodule "libogg-src"]
+	path = libogg-src
+	url = https://github.com/xiph/ogg.git
+[submodule "libopus-src"]
+	path = libopus-src
+	url = https://github.com/xiph/opus.git
+[submodule "libopusfile-src"]
+	path = libopusfile-src
+	url = https://github.com/xiph/opusfile.git
