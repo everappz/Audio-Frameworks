@@ -220,7 +220,7 @@
 				BuildIndependentTargetsInParallel = YES;
 				LastUpgradeCheck = 1500;
 			};
-			buildConfigurationList = 9529EDB915DBE25F000303A6 /* Build configuration list for PBXProject "FLAC" */;
+			buildConfigurationList = 9529EDB915DBE25F000303A6 /* Build configuration list for PBXProject "libFLAC" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -317,7 +317,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = (
 					"-DNS_BLOCK_ASSERTIONS=1",
@@ -364,7 +364,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				OTHER_CFLAGS = (
 					"-DNS_BLOCK_ASSERTIONS=1",
 					"-DNDEBUG",
@@ -387,7 +387,7 @@
 					"../libogg-src/include/",
 					"../flac-src/src/libFLAC/include/",
 				);
-				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
+				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = FLAC;
 				SKIP_INSTALL = YES;
@@ -407,7 +407,7 @@
 					"../libogg-src/include/",
 					"../flac-src/src/libFLAC/include/",
 				);
-				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
+				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = FLAC;
 				SKIP_INSTALL = YES;
@@ -417,7 +417,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9529EDB915DBE25F000303A6 /* Build configuration list for PBXProject "FLAC" */ = {
+		9529EDB915DBE25F000303A6 /* Build configuration list for PBXProject "libFLAC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9529EDCC15DBE25F000303A6 /* Debug */,
